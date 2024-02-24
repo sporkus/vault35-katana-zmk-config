@@ -4,10 +4,7 @@
 if BOARD_VAULT35_KATANA
 
 config BOARD
-    default "vault35-katana"
-
-config BOARD
-    default "Vault 35 Katana"
+    default "vault35_katana"
 
 config ZMK_KEYBOARD_NAME
     default "Vault 35 Katana"
