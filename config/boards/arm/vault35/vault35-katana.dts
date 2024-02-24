@@ -42,9 +42,6 @@
         compatible = "zmk,kscan-gpio-matrix";
         diode-direction = "row2col";
 
-        "cols": ["B0", "A7", "A6", "A5", "A4", "A3", "B5", "B4", "B3", "A15", "A14"],
-        "rows": ["B11", "B10", "B2", "B1"]
-
         col-gpios
         = <&gpiob 0  (GPIO_ACTIVE_HIGH)>
         , <&gpioa 7  (GPIO_ACTIVE_HIGH)>
