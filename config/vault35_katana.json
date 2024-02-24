@@ -1,6 +1,9 @@
 {
+    "id": "vault35_katana",
+    "name": "Vault35 Katana",
     "layouts": {
-      "LAYOUT": {
+      "transform_1us": {
+        "name": "transform_1us",
         "layout": [
           { "x":    0, "y": 0, "u":  1.5, "label":           "0,0" },
           { "x":  1.5, "y": 0,            "label":           "0,1" },
