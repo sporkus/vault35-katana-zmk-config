@@ -1,0 +1,21 @@
+# Copyright (c) 2020 The ZMK Contributors
+# SPDX-License-Identifier: MIT
+
+if BOARD_VAULT35_KATANA
+
+config BOARD
+    default "vault35-katana"
+
+config BOARD
+    default "Vault 35 Katana"
+
+config ZMK_KEYBOARD_NAME
+    default "Vault 35 Katana"
+
+config ZMK_USB
+    default y
+
+config ZMK_KSCAN_MATRIX_POLLING
+    default y
+
+endif # BOARD_VAULT35_KATANA

@@ -1,0 +1,10 @@
+file_format: "1"
+id: vault35-katana
+name: Vault 35 (Katana)
+type: board
+arch: arm
+features:
+  - encoders
+outputs:
+  - usb
+url: https://www.jlw-kb.com/products/katana-stagger-vault-35-hhkb-pcb-and-plates 

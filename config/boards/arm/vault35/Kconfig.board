@@ -1,0 +1,2 @@
+config BOARD_VAULT35_KATANA
+    bool "Vault35 Katana"
